@@ -1,0 +1,28 @@
+{
+    "name": "exchangerateapi/sdk",
+    "description": "Official PHP SDK for Exchange Rate API - Real-time exchange rates for 160+ currencies",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Exchange Rate API",
+            "email": "admin@exchange-rateapi.com"
+        }
+    ],
+    "homepage": "https://exchange-rateapi.com",
+    "support": {
+        "source": "https://github.com/Exchange-RateAPI/exchange-rateapi-php"
+    },
+    "keywords": ["exchange-rate", "currency", "forex", "api", "exchange-rateapi", "reuters"],
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ExchangeRateAPI\\": "src/"
+        }
+    }
+}
