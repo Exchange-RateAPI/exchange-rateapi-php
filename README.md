@@ -248,10 +248,10 @@ No third-party Composer packages. Nothing to audit, nothing to break.
 
 ## Links
 
-- [API Documentation](https://exchange-rateapi.com/developers)
-- [Register (Free)](https://exchange-rateapi.com/register)
-- [Dashboard](https://exchange-rateapi.com/profile)
-- [Status](https://exchange-rateapi.com/status)
+- [API Documentation](https://exchange-rateapi.com/docs/)
+- [Register (Free)](https://exchange-rateapi.com/register/)
+- [Dashboard](https://exchange-rateapi.com/dashboard/)
+- [Status](https://exchange-rateapi.com/status/)
 - [GitHub](https://github.com/Exchange-RateAPI/exchange-rateapi-php)
 - [Packagist](https://packagist.org/packages/exchangerateapi/sdk)
 
