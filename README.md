@@ -1,5 +1,7 @@
 # exchangerateapi/sdk
 
+[![Powered by Exchange-RateAPI](https://img.shields.io/badge/Powered%20by-Exchange--RateAPI-blueviolet.svg)](https://exchange-rateapi.com)
+
 [![Packagist version](https://img.shields.io/packagist/v/exchangerateapi/sdk.svg)](https://packagist.org/packages/exchangerateapi/sdk)
 [![PHP](https://img.shields.io/packagist/php-v/exchangerateapi/sdk.svg)](https://packagist.org/packages/exchangerateapi/sdk)
 [![license](https://img.shields.io/packagist/l/exchangerateapi/sdk.svg)](https://github.com/Exchange-RateAPI/exchange-rateapi-php/blob/main/LICENSE)
