@@ -12,8 +12,8 @@
 ## Why Choose This SDK?
 
 - **Lightweight** -- Only requires `ext-curl` and `ext-json`, both bundled with PHP by default
-- **Real-Time Data** -- Rates updated every 60 seconds from institutional interbank market data
-- **Mid-Market Rates** -- The true interbank rate -- no hidden spread or markup
+- **Real-Time Data** -- Rates updated every 60 seconds
+- **Mid-Market Rates** -- No retail spread or markup baked in
 - **160+ Currencies** -- Major, minor, and exotic currency pairs
 - **PHP 7.4+** -- Works on any modern PHP version, including PHP 8.x
 - **Zero Dependencies** -- No Composer packages to audit, no supply chain risk
