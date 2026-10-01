@@ -1,5 +1,7 @@
 # exchangerateapi/sdk
 
+> **Exchange Rate API is now **AllRatesToday**.** This package keeps working against `exchange-rateapi.com`, but it is no longer updated. For new projects use the AllRatesToday SDKs and docs at [github.com/AllRates-Today](https://github.com/AllRates-Today) — the same real-time API plus official rates from 121 central banks. Docs: [allratestoday.com/docs](https://allratestoday.com/docs/).
+
 [![Powered by Exchange-RateAPI](https://img.shields.io/badge/Powered%20by-Exchange--RateAPI-blueviolet.svg)](https://exchange-rateapi.com)
 
 [![Packagist version](https://img.shields.io/packagist/v/exchangerateapi/sdk.svg)](https://packagist.org/packages/exchangerateapi/sdk)
